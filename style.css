@@ -352,6 +352,10 @@ section .button button:hover {
   font-size: 60px;
   color: #4070f4;
 }
+.skills-details .boxes .per1 {
+  font-size: 35px;
+  color: #4070f4;
+}
 
 /* My Services CSS */
 .services .boxes {
