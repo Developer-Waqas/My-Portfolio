@@ -39,8 +39,8 @@ A **basic yet functional calculator app** built with Flutter, mimicking a standa
 
 
 ## 📬 Contact Me  
-📧 Email: [your.email@example.com](mailto:waqasmuhammad5254@gmail.com)  
-💼 LinkedIn: [linkedin.com/in/yourprofile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/waqas-muhammad-0ba609290/))  
+📧 Email: [mailto:waqasmuhammad5254@gmail.com]  
+💼 LinkedIn: ([https://www.linkedin.com/in/waqas-muhammad-0ba609290/])  
 
 ---
 
